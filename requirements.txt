@@ -2,3 +2,7 @@ Flask
 gunicorn
 flask-mysqldb
 mysqlclient
+flask-bcrypt
+PyPDF2
+nltk
+spacy
